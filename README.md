@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sravani 👋
 
-<!--
-**sravanirepalli/sravanirepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ServiceNow Developer focused on building platform solutions across ITSM, ITOM, CMDB, ITAM, and workflow automation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build ServiceNow solutions that improve IT operations and service delivery through automation, platform customization, and structured workflow design.
+
+My work includes:
+
+- ITSM implementation
+- Incident, Problem, and Change Management
+- CMDB and asset management
+- Workflow automation using Business Rules and Flow Designer
+- SLA configuration and reporting
+- JavaScript scripting on the ServiceNow platform
+
+## Current Focus
+
+I am building hands-on ServiceNow portfolio projects that demonstrate enterprise-style implementations across support operations, configuration management, and automation.
+
+## Skills
+
+ServiceNow  
+ITSM  
+ITOM  
+CMDB  
+ITAM  
+Flow Designer  
+Business Rules  
+Client Scripts  
+JavaScript  
+SLA Management  
+Reporting & Dashboards
