@@ -1,34 +1,25 @@
-# Hi, I'm Sravani 👋
+## 👋 Hi, I'm Sravani
 
-ServiceNow Developer focused on building platform solutions across ITSM, ITOM, CMDB, ITAM, and workflow automation.
+💻 ServiceNow Developer  
+🚀 Building workflow automation  
+⚙️ Experienced in ITSM, ITOM, CMDB  
+🌐 Cloud & DevOps background
 
-## About Me
+## 💻 Tech Stack
 
-I build ServiceNow solutions that improve IT operations and service delivery through automation, platform customization, and structured workflow design.
+![ServiceNow](https://img.shields.io/badge/ServiceNow-black?style=for-the-badge&logo=servicenow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)
+![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge)
 
-My work includes:
+## 📊 GitHub Stats
 
-- ITSM implementation
-- Incident, Problem, and Change Management
-- CMDB and asset management
-- Workflow automation using Business Rules and Flow Designer
-- SLA configuration and reporting
-- JavaScript scripting on the ServiceNow platform
+![Stats](https://github-readme-stats.vercel.app/api?username=sravanirepalli&show_icons=true&theme=tokyonight)
 
-## Current Focus
+## 🌐 Connect
 
-I am building hands-on ServiceNow portfolio projects that demonstrate enterprise-style implementations across support operations, configuration management, and automation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
 
-## Skills
 
-ServiceNow  
-ITSM  
-ITOM  
-CMDB  
-ITAM  
-Flow Designer  
-Business Rules  
-Client Scripts  
-JavaScript  
-SLA Management  
-Reporting & Dashboards
