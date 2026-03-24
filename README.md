@@ -1,9 +1,18 @@
-## 👋 Hi, I'm Sravani
+# 👋 Hi, I'm Sravani
 
-💻 ServiceNow Developer  
-🚀 Building workflow automation  
-⚙️ Experienced in ITSM, ITOM, CMDB  
-🌐 Cloud & DevOps background
+💻 ServiceNow Developer with 6+ years in IT and hands-on experience building end-to-end ServiceNow solutions across ITSM, ITOM, and ITAM, along with automation and integrations.
+
+## 🔹 What I Work On
+🔸 ITSM (Incident, Problem, Change, Service Requests)  
+🔸 ITOM (CMDB, CSDM, Service Mapping)  
+🔸 ITAM (Asset Lifecycle, Hardware/Software Asset Management)  
+🔸 ⚙️ Workflow Automation (Flow Designer, Business Rules)  
+🔸 🔗 Integrations (REST APIs, IntegrationHub)  
+
+## 📂 Featured Projects
+🚀 ServiceNow ITSM – Incident & Problem Management  
+🚀 ServiceNow ITOM – CMDB & Service Mapping  
+
 
 ## 💻 Tech Stack
 
@@ -23,5 +32,4 @@
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sravani-repalli-ab856b247/)
-
 
