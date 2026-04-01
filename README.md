@@ -27,7 +27,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sravanirepalli&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sravanirepalli&theme=tokyonight)
 
 ## 🌐 Connect
 
