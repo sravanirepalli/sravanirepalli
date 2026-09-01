@@ -1,64 +1,55 @@
 # Hi, I'm Sravani 👋
 
-SAP Integration Developer specializing in SAP BTP, SAP Integration Suite, Cloud Integration, and secure enterprise application connectivity.
+I build SAP integrations and extensions—from connecting APIs to handling the messages, decisions, and failures in between.
 
-I design and build integration solutions using APIs, event-driven patterns, asynchronous messaging, monitoring, error handling, and cloud-native SAP services.
+This is where I share implementations, reusable code, and the design choices behind them.
 
-## Core Expertise
+[LinkedIn](https://www.linkedin.com/in/sravani-r-ab856b247/) · [Explore my repositories](https://github.com/sravanirepalli?tab=repositories)
 
-* SAP Integration Suite and Cloud Integration (CPI)
-* REST, SOAP, OData, IDoc, SFTP, XML, and JSON integrations
-* iFlows, Groovy scripting, message mapping, routing, and exception subprocesses
-* OAuth 2.0, XSUAA, certificates, destinations, and credential management
-* SAP CAP with Node.js, CDS, SAP HANA Cloud, and Cloud Foundry
-* Event-driven architecture, durable messaging, retries, and dead-letter queues
-* SAP Build Process Automation and human approval workflows
-* API testing and validation using Postman
+## Featured Build
 
-## Featured Project
+### [Event-Driven Sales Order Approval](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp)
 
-### [Event-Driven Sales Order Approval on SAP BTP](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp)
+Sales-order approval on SAP BTP, with business rules, asynchronous messaging, and multi-level human approvals kept outside the ERP core.
 
-A production-oriented reference implementation for extending sales-order approvals without adding custom approval logic to the ERP core.
+Built with **SAP Integration Suite, CAP, Node.js, HANA Cloud, RabbitMQ, and SAP Build Process Automation**.
 
-The solution integrates:
+The repository includes the implementation, importable integration and workflow artifacts, Groovy scripts, a Postman collection, and automated tests. It also documents security, retries, duplicate-event handling, and the validated end-to-end flow.
 
-* SAP Integration Suite for API orchestration, approval routing, and event publishing
-* SAP CAP and Node.js for approval-policy evaluation and secured callback APIs
-* SAP HANA Cloud for sales orders, approval requests, audit records, and processing history
-* RabbitMQ for durable asynchronous messaging, retries, and dead-letter handling
-* A Node.js worker for duplicate-event protection, controlled retries, and workflow initiation
-* SAP Build Process Automation for Sales Manager, Finance, and Business Head approvals
-* XSUAA and OAuth 2.0 for role-based API protection
-* Postman and GitHub Actions for API validation and automated testing
+[Explore the project →](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp)
 
-The complete flow was validated end to end, from the Integration Suite request through the final workflow decision and HANA status update.
-
-[![View Project](https://img.shields.io/badge/View_Project-Event--Driven_Sales_Order_Approval-0A6ED1?style=for-the-badge\&logo=sap\&logoColor=white)](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp)
 [![CI](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp/actions/workflows/ci.yml/badge.svg)](https://github.com/sravanirepalli/event-driven-sales-order-approval-btp/actions/workflows/ci.yml)
 
-## Technologies
+## Technology Stack
 
-![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square\&logo=sap\&logoColor=white)
-![Integration Suite](https://img.shields.io/badge/Integration_Suite-0070F2?style=flat-square\&logo=sap\&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/SAP_CAP-0A6ED1?style=flat-square\&logo=sap\&logoColor=white)
-![SAP HANA Cloud](https://img.shields.io/badge/SAP_HANA_Cloud-0070F2?style=flat-square\&logo=sap\&logoColor=white)
-![SAP Build](https://img.shields.io/badge/SAP_Build_Process_Automation-0A6ED1?style=flat-square\&logo=sap\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square\&logo=apachegroovy\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Integration Suite / CPI](https://img.shields.io/badge/Integration_Suite_%2F_CPI-0070F2?style=flat-square&logo=sap&logoColor=white)
+![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-354A5F?style=flat-square)
+![API Management](https://img.shields.io/badge/API_Management-0070F2?style=flat-square)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0A6ED1?style=flat-square&logo=sap&logoColor=white)
+![HANA Cloud](https://img.shields.io/badge/HANA_Cloud-0070F2?style=flat-square&logo=sap&logoColor=white)
+![SAP Build Process Automation](https://img.shields.io/badge/SAP_Build_Process_Automation-0A6ED1?style=flat-square)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SAP Event Mesh](https://img.shields.io/badge/SAP_Event_Mesh-0070F2?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Engineering Focus
+<details>
+<summary>More from my toolkit</summary>
 
-* Secure and maintainable SAP integrations
-* Clean-core and side-by-side extension patterns
-* API-led and event-driven architecture
-* Reliable messaging, retry, and failure recovery
-* Correlation, monitoring, and auditability
-* Reusable integration components and automated validation
+ABAP Proxy, EDI/B2B, Message Mapping, Value Mapping, Process Direct, Data Stores, XML, JSON, and CSV.
 
-## Connect
+Earlier cloud engineering work: Azure, AWS, Jenkins, Docker, Kubernetes, CloudWatch, Grafana, and Splunk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sravani_Repalli-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sravani-r-ab856b247/)
+</details>
+
+## Beyond the Happy Path
+
+The questions I care about: Can a request be retried safely? What happens when a message arrives twice? Can someone trace a failed transaction without digging through every system?
+
+Those are the details I aim to make visible in both the code and its documentation.
+
+---
+
+Open to conversations about SAP integration, clean-core extensions, and event-driven design. [Let’s connect.](https://www.linkedin.com/in/sravani-r-ab856b247/)
